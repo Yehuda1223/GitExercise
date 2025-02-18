@@ -1,0 +1,2 @@
+מצורף קישור לפרויקט גיט
+https://github.com/Yehuda1223/GitExercise.git
